@@ -1,5 +1,10 @@
 ### Frontend developer
 
+* Angular
+* Webpack
+* JavaScript
+* PHP
+
 <!--
 **Olesia9/Olesia9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
